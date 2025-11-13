@@ -40,9 +40,9 @@ contract PaidGovernor is
     event VoteCastWithPayment(uint256 indexed proposalId, address indexed voter, uint256 amountPaid);
     event RefundClaimed(uint256 indexed proposalId, address indexed voter);
 
-    constructo(
-        IvoteToken _token,
-        unint256 _voteCost,
+    constructor(
+        IVoteToken _token,
+        uint256 _voteCost,
         address _treasury,
         TimelockController _timelock
     )
