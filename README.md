@@ -1,8 +1,8 @@
 # Token-Gated Voting System
 ## A Decentralized Governance Platform with Paid Voting
-**Author:** Tarilatei Ayebapreye Misongo 
-**Date:** November 08, 2025  
-**Course/Project Submission:** Blockchain Development / Web3 Governance Systems  
+**Author:** Sulphate, Tarilatei, Naomi and Emmanuel.
+**Date:** November 13, 2025  
+**Course/Project Submission:** WEB3 CAPSTONE GROUP PROJECT
 
 ---
 
